@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kashesandr/it-nonstop-2015",
+  "authors": [
+    "Alexander Kasheverov"
+  ],
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "todomvc": "git@github.com:tastejs/todomvc.git#2e7b84bac9d56e7fb7ecf900ff3e4603e2b48de5"
+  }
+}

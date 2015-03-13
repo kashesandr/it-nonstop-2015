@@ -1,0 +1,43 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "The example for the presentation",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kashesandr/it-nonstop-2015.git"
+  },
+  "keywords": [
+    "itnonstop",
+    "2015",
+    "it",
+    "non",
+    "stop",
+    "2015",
+    "presentation",
+    "example",
+    "gulp",
+    "grunt",
+    "nodejs",
+    "javascript",
+    "frontend"
+  ],
+  "author": "Alexander Kasheverov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashesandr/it-nonstop-2015/issues"
+  },
+  "homepage": "https://github.com/kashesandr/it-nonstop-2015",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "gulp": "^3.8.11"
+  },
+  "dependencies": {
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "gulp-concat": "^2.5.2"
+  }
+}
